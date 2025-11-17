@@ -103,6 +103,7 @@ function showProjects(projects) {
 getProjects().then(data => {
     showProjects(data);
 })
+
 // fetch projects end
 
 // Start of Tawk.to Live Chat
